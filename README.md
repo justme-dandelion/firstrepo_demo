@@ -1,4 +1,7 @@
 # firstrepo_demo
 This is my first Demo Repo.
 <br>
-author - changes 
+author - Dandelion
+<br>
+coauthor - stroy
+
